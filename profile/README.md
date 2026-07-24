@@ -22,7 +22,8 @@
 | 02 | **[Editais](https://ifesserra-lab.github.io/portal_edital/)** | editais de pesquisa, extensão e fomento — reunidos, filtráveis e atualizados |
 | 03 | **[Salários & carreira de egressos](https://ifesserra-lab.github.io/egressos/)** | trajetória e faixa salarial dos formados (visão executiva anonimizada) |
 | 04 | **[Diretoria](https://ifesserra-lab.github.io/diretoria/)** | indicadores consolidados de ensino, pesquisa e extensão para a gestão |
-| 05 | **[Horizon](https://github.com/ifesserra-lab/horizon_dashboard)** | inteligência sobre grupos de pesquisa, produção e editais (Prefect + Supabase) |
+| 05 | **[GEDoc](https://gedocs.vercel.app/)** | busca full-text no acervo de documentos institucionais do campus |
+| 06 | **[Horizon](https://github.com/ifesserra-lab/horizon_dashboard)** | inteligência sobre grupos de pesquisa, produção e editais (Prefect + Supabase) |
 
 ## Projetos
 
